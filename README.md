@@ -21,7 +21,7 @@ To Implement the Tools and Libraries used
   **Scikit-learn:** For building and evaluating machine learning models
   **Matplotlib and Seaborn:** For data visualization
   
-**Steps ** to implement this is basic sales precition is begin with the **Data Loading and Exploration:** Load the dataset and perform exploratory data analysis (EDA) to understand the data and then need to analyze the data called as 
+**Steps** to implement this is basic sales precition is begin with the **Data Loading and Exploration:** Load the dataset and perform exploratory data analysis (EDA) to understand the data and then need to analyze the data called as 
 **Data Analysis:** Visualize the relationship between TV advertising and sales using scatter plots and correlation matrices. later select a suitable machine learning model this is so called as 
 **Model Building:** Train a linear regression model and evaluate its performance. Finally to check with the accuracy need to do the 
 **Model Evaluation:** Use metrics such as mean absolute error, mean squared error, and R-squared to evaluate model performance.
